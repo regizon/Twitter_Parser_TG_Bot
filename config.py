@@ -1,2 +1,2 @@
-bot_token = "5810812311:AAETx-zAD_redPdTDrKkx9ZabCoFb124LSE"
-chat_id = 1365172025
+bot_token = "Your bot token here"
+chat_id = your_chat_id_here # example: chat_id = 123456
